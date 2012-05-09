@@ -1,6 +1,6 @@
 README
 
-Ball Drop is a simple JavaScript game written in 2011 for a 4th-year software engineering class I took - Human Computer Interfaces (SFWR ENG 4HC3).
+Ball Drop is a simple Java game written in 2011 for a 4th-year software engineering class I took at McMaster University - Human Computer Interfaces (SFWR ENG 4HC3).
 
 The idea of the game is to click the ball before it reaches the bottom of the screen. Higher difficulties cause the ball to drop faster.
 
